@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DiagramShapeEx.cs](./CS/XtraDiagram.CustomShapeProperties/DiagramShapeEx.cs) (VB: [DiagramShapeEx.vb](./VB/XtraDiagram.CustomShapeProperties/DiagramShapeEx.vb))
+* [Form1.cs](./CS/XtraDiagram.CustomShapeProperties/Form1.cs) (VB: [Form1.vb](./VB/XtraDiagram.CustomShapeProperties/Form1.vb))
+* [Program.cs](./CS/XtraDiagram.CustomShapeProperties/Program.cs) (VB: [Program.vb](./VB/XtraDiagram.CustomShapeProperties/Program.vb))
+<!-- default file list end -->
 # How to create a DiagramShape descendant and serialize its properties
 
 
