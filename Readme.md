@@ -24,6 +24,9 @@ public int DatabaseObjectID { get; set; }
 DiagramControl.ItemTypeRegistrator.Register(typeof(DiagramShapeEx));
 ```
 
+<p><br> 3) Make sure that your custom item class has a parameterless constructor
+    
+
 
 <p>To edit your custom property in the Property Grid, handle the CustomGetEditableItemProperties event.</p>
 
